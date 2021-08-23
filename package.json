@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.4.6",
-    "crawler-request": "^0.1.1",
+    "cheerio": "^0.22.0",
+    "crawler-request": "^1.2.2",
     "node-fetch": "^2.6.1"
   }
 }
